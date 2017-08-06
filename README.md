@@ -4,3 +4,4 @@ The following files are included:
 * bruteForceKnapsack.py  
 * genBagCombinations.py  
 * genBagCombinationsUsingIterTools.py  
+* dynamicProgrammingKnapsack.py  
